@@ -21,3 +21,17 @@ Each device is assigned a dedicated SSID and VLAN via router-level segmentation 
 • No enterprise contamination
 • No synthetic traffic injection
 This architecture guarantees that every DNS query is tied to a specific device, OS, and app context - enabling forensic-grade analysis of telemetry behavior across platforms.
+
+Additions
+Mac Pro M2 Ultra
+8TB SSD, 192GB unified memory, Pro Display DR (Nano-texture) with Pro Stand
+• Purpose: Central analysis node for long-term telemetry review, VM orchestration, and DNS pattern recognition
+MacBook Pro M4 Max (Field Node)
+4TB SSD, 128GB unified memory, Space Black
+• Purpose: Mobile DNS telemetry capture across varied WiFi environments
+• Specs:
+• 16-inch Liquid Retina XDR display with Nano-texture glass (glare reduction)
+• Apple M4 Max chip: 16-core CPU, 40-core GPU, 16-core Neural Engine
+• 140W USB-C Power Adapter
+• Ports: 3× Thunderbolt 5, HDMI, SDXC, headphone jack, MagSafe 3
+• Backlit Magic Keyboard with Touch ID
