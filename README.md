@@ -1,5 +1,6 @@
 # Precision-Blocklist
  Cross-OS, router-isolated DNS blocklist idea to be tested on commercially available flagship devices. Apple, Android and Windows- no emulators. No bleed-over. Just reproducible telemetry.
+Purposes target SDKs, CDNs APIs, Telemetry, Analytics, Ads, Tracking, Malware, Phishing and test each domain before adding it to the blocklist
 
 This blocklist would be curated through real-world testing on flagship consumer hardware:
 Lab Architecture
